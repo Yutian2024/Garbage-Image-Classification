@@ -11,6 +11,8 @@ Sometimes, it is frustrating not knowing which type of garbage you are about to 
 
 The team collected image data from multiple online databases to construct the full dataset for this project. The team explored two methods for building machine learning models to classify the images. The first method was to fine-tune the pre-trained ResNet18 model. The second method was to use a transfer learning technique that utilizes the ResNet18 model to extract features from images, which are then used to train a CNN model to classify the images based on those features. The performences of the models are evaluated and presented.
 
+Training data are in 'img.rar'. New data are in 'test_img.rar'.
+
 ## Link to datasets:
 [https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification/data] 
 [https://www.kaggle.com/datasets/quangtheng/garbage-classification-6-classes-775class?select=plastic]
